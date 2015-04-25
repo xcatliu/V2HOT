@@ -1,11 +1,31 @@
 {
   "name": "v2hot",
   "version": "0.0.1",
-  "private": true,
+  "description": "v2hot is an iOS App made by @xcatliu, powered by React Native.",
+  "main": "index.ios.js",
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xcatliu/v2hot.git"
+  },
+  "keywords": [
+    "v2hot",
+    "v2ex",
+    "react-native",
+    "react",
+    "iOS",
+    "App"
+  ],
+  "author": "xcatliu <xcatliu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xcatliu/v2hot/issues"
+  },
+  "homepage": "https://github.com/xcatliu/v2hot",
   "dependencies": {
     "react-native": "^0.4.0"
-  }
+  },
+  "devDependencies": {}
 }
