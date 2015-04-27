@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/xcatliu/v2hot",
   "dependencies": {
-    "react-native": "^0.4.0"
+    "react-native": "^0.4.1"
   },
   "devDependencies": {}
 }
