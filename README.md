@@ -7,7 +7,7 @@ It lists hot topics in [v2ex](https://v2ex.com/) by fetching [v2ex hot topics AP
 
 ## Getting Start
 
-1. Follow [Getting Start](https://facebook.github.io/react-native/docs/getting-started.html), ensure you have finish installed the requirements.
-2. Open `v2hot.xcodeproj` in Xcode, hit *run* or *Command + R* to run this project in iOS Simulator.
+1. Follow [React Native Getting Start](https://facebook.github.io/react-native/docs/getting-started.html), ensure you have finished installing the requirements.
+2. Open `v2hot.xcodeproj` in Xcode, *Command + R* to run this project in iOS Simulator.
+3. Focus on iOS Simulator, *Command + R* to refresh, *Command + D* to debugging in Chrome.
 3. Check out `index.ios.js` and `lib/**`, enjoy coding!
-
