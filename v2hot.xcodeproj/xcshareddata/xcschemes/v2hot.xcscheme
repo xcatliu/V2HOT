@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "v2hot.app"
-               BlueprintName = "v2hot"
-               ReferencedContainer = "container:v2hot.xcodeproj">
+               BuildableName = "V2HOT.app"
+               BlueprintName = "V2HOT"
+               ReferencedContainer = "container:V2HOT.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "v2hotTests.xctest"
-               BlueprintName = "v2hotTests"
-               ReferencedContainer = "container:v2hot.xcodeproj">
+               BuildableName = "V2HOTTests.xctest"
+               BlueprintName = "V2HOTTests"
+               ReferencedContainer = "container:V2HOT.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "v2hotTests.xctest"
-               BlueprintName = "v2hotTests"
-               ReferencedContainer = "container:v2hot.xcodeproj">
+               BuildableName = "V2HOTTests.xctest"
+               BlueprintName = "V2HOTTests"
+               ReferencedContainer = "container:V2HOT.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "v2hot.app"
-            BlueprintName = "v2hot"
-            ReferencedContainer = "container:v2hot.xcodeproj">
+            BuildableName = "V2HOT.app"
+            BlueprintName = "V2HOT"
+            ReferencedContainer = "container:V2HOT.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "v2hot.app"
-            BlueprintName = "v2hot"
-            ReferencedContainer = "container:v2hot.xcodeproj">
+            BuildableName = "V2HOT.app"
+            BlueprintName = "V2HOT"
+            ReferencedContainer = "container:V2HOT.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "v2hot.app"
-            BlueprintName = "v2hot"
-            ReferencedContainer = "container:v2hot.xcodeproj">
+            BuildableName = "V2HOT.app"
+            BlueprintName = "V2HOT"
+            ReferencedContainer = "container:V2HOT.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

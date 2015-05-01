@@ -7,10 +7,10 @@ var {
 
 var App = require('./lib/App');
 
-var v2hot = React.createClass({
+var V2HOT= React.createClass({
   render() {
     return <App/>;
   },
 });
 
-AppRegistry.registerComponent('v2hot', () => v2hot);
+AppRegistry.registerComponent('V2HOT', () => V2HOT);
