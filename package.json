@@ -1,6 +1,6 @@
 {
   "name": "V2HOT",
-  "version": "0.2.1",
+  "version": "1.0.0-alpha.1",
   "description": "V2HOT is an iOS App made by @xcatliu, powered by React Native.",
   "main": "index.ios.js",
   "scripts": {
