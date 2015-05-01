@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/xcatliu/v2hot",
   "dependencies": {
-    "react-native": "^0.4.1"
+    "react-native": "^0.4.1",
+    "react-native-refreshable-listview": "^0.3.1"
   },
   "devDependencies": {}
 }
