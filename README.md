@@ -22,3 +22,4 @@ Three way to get V2HOT in your iPhone:
 3. Open `V2HOT.xcodeproj` in Xcode, *Command + R* to run this project in iOS Simulator.
 4. Focus on iOS Simulator, *Command + R* to refresh, *Command + D* to debugging in Chrome.
 5. Check out `index.ios.js` and `lib/**`, enjoy coding!
+
