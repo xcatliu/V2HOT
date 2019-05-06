@@ -1,6 +1,8 @@
 V2HOT
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xcatliu/V2HOT.svg)](https://greenkeeper.io/)
+
 **V2HOT** is an iOS App made by [@xcatliu](https://github.com/xcatliu), powered by React Native.
 
 It lists hot topics in [v2ex](https://v2ex.com/) by fetching [v2ex hot topics API](https://www.v2ex.com/api/topics/hot.json).
